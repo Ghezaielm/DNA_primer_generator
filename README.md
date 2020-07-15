@@ -1,12 +1,12 @@
 # DNA_primer_generator
 DNA primer Generator 
 
-<b>These shorts snippets allows to find efficient PCR primer from input DNA sequences 
+<b>These shorts snippets allows to find efficient PCR primers<br> from input DNA sequences 
 by taking account of : </b>
 
 ## The melting temperature : 
 	- 4GC + 2AT (short fragments)
-- (64,9 +41GC)/length (long framents)
+	- (64,9 +41GC)/length (long framents)
 ## Palindromic motif content 
 ## The hybridization linear complementarity : 
 	- Mismatch handling
