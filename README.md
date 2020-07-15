@@ -1,5 +1,4 @@
-# DNA_primer_generator
-DNA primer Generator 
+# DNA primer generator
 
 <b>These shorts snippets allows to find efficient PCR primers<br> from input DNA sequences 
 by taking account of : </b>
@@ -12,6 +11,6 @@ by taking account of : </b>
 	- Mismatch handling
 	- Secondary structure handling
 ##  The specificity :
-- Intra and inter strands in both 5’ and 3’ directions
+	- Intra and inter strands in both 5’ and 3’ directions
 
 <b>The app is provided with a short data visualisation method.</b>
