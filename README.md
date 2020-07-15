@@ -13,4 +13,4 @@ by taking account of : </b>
 ## Specificity :
 	- Intra and inter strands in both 5’ and 3’ directions
 
-<b>The app is provided with a short data visualisation method.</b>
+<b>The app is provided with a short data visualization method.</b>
